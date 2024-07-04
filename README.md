@@ -1,2 +1,14 @@
 <h1 align="center"> Challenge Alura</h1>
-![banner](https://github.com/raulescobarflores/challenge/assets/50025297/dc3fcaf5-7d5b-4e7c-ab4f-3ac57717997c)
+
+![aas](https://github.com/raulescobarflores/challenge/assets/50025297/b6668e94-32a6-4116-b1bd-eda85be312a2)
+
+![Badge en Desarollo](https://img.shields.io/github/followers/raulescobarflores)
+
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: Encripta un texto
+- `Funcionalidad 2`: Desencripta un texto
+- `Funcionalidad 3`: Se genera un boton de copiar cuando se encripta o desencripta un texto
+
+
+
